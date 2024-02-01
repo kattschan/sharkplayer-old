@@ -1,0 +1,15 @@
+{
+  "name": "sharkplayer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0-alpha.20"
+  },
+  "dependencies": {
+    "prettier": "^3.2.4"
+  }
+}
